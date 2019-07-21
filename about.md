@@ -2,6 +2,7 @@
 layout: article
 title: About Me
 key: page-about
+comment: false
 ---
 
 <img align="left" width="122" height="164" hspace="10" src="https://cfaed.tu-dresden.de/files/Images/people/chair-cc/pictures/staff/lars_schuetze.png">
