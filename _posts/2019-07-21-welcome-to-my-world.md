@@ -1,4 +1,5 @@
 ---
+layout: article
 title: Welcome to my world
 show_subscribe: true
 sharing: true
