@@ -2,6 +2,7 @@
 title: Welcome to my world
 show_subscribe: true
 sharing: true
+comment: true
 ---
 
 Hi, my name is Lars Schütze.
