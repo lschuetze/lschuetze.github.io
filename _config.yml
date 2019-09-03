@@ -131,8 +131,7 @@ comments:
     clientSecret: ac52aba983e633c92acd03f01051de4ee80d16bf # GitHub Application Client Secret
     repository  : lschuetze.github.io # GitHub repo
     owner       : lschuetze # GitHub repo owner
-    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      - lschuetze
+    admin       : lschuetze # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
